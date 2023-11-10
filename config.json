@@ -1,6 +1,6 @@
 {
   "latestVersions": {
-    "agentVersion": "0.0.1",
+    "agentVersion": "0.0.2",
     "coreVersion": "1.3.12"
   },
   "boards": [
