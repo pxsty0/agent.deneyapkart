@@ -4,17 +4,21 @@
     "coreVersion": "1.3.12"
   },
   "boards": [
-    { "name": "deneyapKart", "fqbn": "dydk_mpv10" },
-    { "name": "deneyapMini", "fqbn": "dym_mpv10" },
-    { "name": "deneyapKart1A", "fqbn": "dydk1a_mpv10" },
-    { "name": "deneyapKartG", "fqbn": "dyg_mpv10" },
-    { "name": "deneyapMiniv2", "fqbn": "dym_mpv20" },
-    { "name": "deneyapKart1Av2", "fqbn": "dydk1a_mpv20" }
+    { "name": "Deneyap Kart", "fqbn": "dydk_mpv10" },
+    { "name": "Deneyap Mini", "fqbn": "dym_mpv10" },
+    { "name": "Deneyap Kart 1A", "fqbn": "dydk1a_mpv10" },
+    { "name": "Deneyap Kart G", "fqbn": "dyg_mpv10" },
+    { "name": "Deneyap Mini V2", "fqbn": "dym_mpv20" },
+    { "name": "Deneyap Kart 1A V2", "fqbn": "dydk1a_mpv20" }
   ],
   "examples": [
     {
-      "name": "Boş Örnek",
+      "name": "Başlangıç Örneği",
       "url": "https://raw.githubusercontent.com/pxsty0/agent.deneyapkart/main/examples/blank.ino"
+    },
+    {
+      "name": "Deneyap OLED Ekran Merhaba Dünya",
+      "url": "https://raw.githubusercontent.com/deneyapkart/deneyap-oled-ekran-arduino-library/master/examples/MerhabaDunya/MerhabaDunya.ino"
     },
     {
       "name": "RGB Yak Söndür",
@@ -37,5 +41,5 @@
       "url": "https://raw.githubusercontent.com/deneyapkart/deneyapkart-arduino-core/master/libraries/Deneyap/examples/KutuAcilisUygulamalari/UzaktanRgbLedKontrol/UzaktanRgbLedKontrol.ino"
     }
   ],
-  "author": "mustafa kok"
+  "author": "https://github.com/pxsty0"
 }
