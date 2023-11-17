@@ -17,6 +17,10 @@
       "url": "https://raw.githubusercontent.com/pxsty0/agent.deneyapkart/main/examples/blank.ino"
     },
     {
+      "name":"Mac Adresi Bulma",
+      "url":"https://raw.githubusercontent.com/deneyapkart/deneyapkart-arduino-core/master/libraries/Deneyap/examples/Mikrodenetleyici/MacAdresiBulma/MacAdresiBulma.ino"
+    },
+    {
       "name": "Deneyap OLED Ekran Merhaba Dünya",
       "url": "https://raw.githubusercontent.com/deneyapkart/deneyap-oled-ekran-arduino-library/master/examples/MerhabaDunya/MerhabaDunya.ino"
     },
