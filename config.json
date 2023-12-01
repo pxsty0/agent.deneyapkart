@@ -11,39 +11,5 @@
     { "name": "Deneyap Mini V2", "fqbn": "dym_mpv20" },
     { "name": "Deneyap Kart 1A V2", "fqbn": "dydk1a_mpv20" }
   ],
-  "examples": [
-    {
-      "name": "Başlangıç Örneği",
-      "url": "https://raw.githubusercontent.com/pxsty0/agent.deneyapkart/main/examples/blank.ino"
-    },
-    {
-      "name":"Mac Adresi Bulma",
-      "url":"https://raw.githubusercontent.com/deneyapkart/deneyapkart-arduino-core/master/libraries/Deneyap/examples/Mikrodenetleyici/MacAdresiBulma/MacAdresiBulma.ino"
-    },
-    {
-      "name": "Deneyap OLED Ekran Merhaba Dünya",
-      "url": "https://raw.githubusercontent.com/deneyapkart/deneyap-oled-ekran-arduino-library/master/examples/MerhabaDunya/MerhabaDunya.ino"
-    },
-    {
-      "name": "RGB Yak Söndür",
-      "url": "https://raw.githubusercontent.com/deneyapkart/deneyapkart-arduino-core/master/libraries/Deneyap/examples/GPIO/RgbYakSondur/RgbYakSondur.ino"
-    },
-    {
-      "name": "Deneyap Haberleşme Alıcı",
-      "url": "https://raw.githubusercontent.com/deneyapkart/deneyapkart-arduino-core/master/libraries/Deneyap/examples/MiniProjeler/DeneyapHaberlesmeAlici/DeneyapHaberlesmeAlici.ino"
-    },
-    {
-      "name": "Deneyap Haberleşme Verici",
-      "url": "https://raw.githubusercontent.com/deneyapkart/deneyapkart-arduino-core/master/libraries/Deneyap/examples/MiniProjeler/DeneyapHaberlesmeVerici/DeneyapHaberlesmeVerici.ino"
-    },
-    {
-      "name": "Temel HTTP",
-      "url": "https://raw.githubusercontent.com/deneyapkart/deneyapkart-arduino-core/master/libraries/Deneyap/examples/WiFi/TemelHTTP/TemelHTTP.ino"
-    },
-    {
-      "name": "Uzaktan RGB Led Kontrol",
-      "url": "https://raw.githubusercontent.com/deneyapkart/deneyapkart-arduino-core/master/libraries/Deneyap/examples/KutuAcilisUygulamalari/UzaktanRgbLedKontrol/UzaktanRgbLedKontrol.ino"
-    }
-  ],
   "author": "https://github.com/pxsty0"
 }
