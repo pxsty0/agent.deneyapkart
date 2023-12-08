@@ -3,6 +3,9 @@
     "agentVersion": "0.0.6",
     "coreVersion": "1.3.12"
   },
+  "updateMessages":{
+    "0.0.7":"Yazılım, artık daha yüksek bir stabiliti seviyesine ulaştı; bu süreçte, kullanıcı geri bildirimleri dikkate alınarak yeni özellikler eklenmiş ve mevcut hatalar titizlikle giderilmiştir."
+  },
   "boards": [
     { "name": "Deneyap Kart", "fqbn": "dydk_mpv10" },
     { "name": "Deneyap Mini", "fqbn": "dym_mpv10" },
