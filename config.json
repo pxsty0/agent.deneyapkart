@@ -3,9 +3,11 @@
     "agentVersion": "0.0.7",
     "coreVersion": "1.3.12"
   },
-  "updateMessages":{
-    "latest":"Yazılım, artık daha yüksek bir stabiliti seviyesine ulaştı; bu süreçte, kullanıcı geri bildirimleri dikkate alınarak yeni özellikler eklenmiş ve mevcut hatalar titizlikle giderilmiştir.",
-    "0.0.7":"Yazılım, artık daha yüksek bir stabiliti seviyesine ulaştı; bu süreçte, kullanıcı geri bildirimleri dikkate alınarak yeni özellikler eklenmiş ve mevcut hatalar titizlikle giderilmiştir."
+  "supportedVersions": ["0.0.7", "0.0.8"],
+  "updateMessages": {
+    "latest": "Deneyap Kart Agent & IDE stabilizasyonu artırıldı ve kullanıcı deneyimini etkileyen hatalar düzeltildi.",
+    "0.0.8": "Deneyap Kart Agent & IDE stabilizasyonu artırıldı ve kullanıcı deneyimini etkileyen hatalar düzeltildi.",
+    "0.0.7": "Yazılım, artık daha yüksek bir stabiliti seviyesine ulaştı; bu süreçte, kullanıcı geri bildirimleri dikkate alınarak yeni özellikler eklenmiş ve mevcut hatalar titizlikle giderilmiştir."
   },
   "boards": [
     { "name": "Deneyap Kart", "fqbn": "dydk_mpv10" },
