@@ -1,6 +1,6 @@
 {
   "latestVersions": {
-    "agentVersion": "0.0.8",
+    "agentVersion": "0.0.7",
     "coreVersion": "1.3.12"
   },
   "supportedVersions": ["0.0.7", "0.0.8"],
