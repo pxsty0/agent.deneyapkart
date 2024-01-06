@@ -1,11 +1,12 @@
 {
   "latestVersions": {
-    "agentVersion": "0.0.8",
+    "agentVersion": "0.0.9",
     "coreVersion": "1.3.12"
   },
-  "supportedVersions": ["0.0.8","0.0.9"],
+  "supportedVersions": ["0.0.9"],
   "updateMessages": {
-    "latest": "Deneyap Kart Agent & IDE stabilizasyonu artırıldı ve kullanıcı deneyimini etkileyen hatalar düzeltildi.",
+    "latest": "Yenilenmiş kütüphane kaldırma özelliği, ekran boyutuna adaptasyon yeteneği, geliştirilmiş seri haberleşme altyapısı ve bir dizi yenilikle birlikte, çeşitli hatalar da başarıyla giderilmiştir. Bu güncelleme, kullanıcı deneyimini daha da optimize etmek amacıyla gerçekleştirilmiştir.",
+    "0.0.9":"Yenilenmiş kütüphane kaldırma özelliği, ekran boyutuna adaptasyon yeteneği, geliştirilmiş seri haberleşme altyapısı ve bir dizi yenilikle birlikte, çeşitli hatalar da başarıyla giderilmiştir. Bu güncelleme, kullanıcı deneyimini daha da optimize etmek amacıyla gerçekleştirilmiştir.",
     "0.0.8": "Deneyap Kart Agent & IDE stabilizasyonu artırıldı ve kullanıcı deneyimini etkileyen hatalar düzeltildi.",
     "0.0.7": "Yazılım, artık daha yüksek bir stabiliti seviyesine ulaştı; bu süreçte, kullanıcı geri bildirimleri dikkate alınarak yeni özellikler eklenmiş ve mevcut hatalar titizlikle giderilmiştir."
   },
