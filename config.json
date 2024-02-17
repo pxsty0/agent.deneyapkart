@@ -1,7 +1,8 @@
 {
-  "supportedVersions": ["0.0.9", "0.1.0"],
+  "supportedVersions": ["0.0.9", "0.1.0","0.1.1"],
   "updateMessages": {
-    "latest": "Bu güncelleme, kullanıcı deneyimini daha da optimize etmek amacıyla gerçekleştirilmiştir.",
+    "latest": "Bu güncellemeyle birlikte kullanıcılar artık birden fazla editör penceresi kullanabilecekler. Ayrıca, editörün kaynakladığı hatalar üzerinde çalışıldı ve giderildi. Yapılan düzeltmeler sayesinde kullanıcılar daha sorunsuz bir deneyim yaşayacaklar.",
+    "0.1.1": "Bu güncellemeyle birlikte kullanıcılar artık birden fazla editör penceresi kullanabilecekler. Ayrıca, editörün kaynakladığı hatalar üzerinde çalışıldı ve giderildi. Yapılan düzeltmeler sayesinde kullanıcılar daha sorunsuz bir deneyim yaşayacaklar.",
     "0.1.0": "Bu güncelleme, kullanıcı deneyimini daha da optimize etmek amacıyla gerçekleştirilmiştir.",
     "0.0.9": "Yenilenmiş kütüphane kaldırma özelliği, ekran boyutuna adaptasyon yeteneği, geliştirilmiş seri haberleşme altyapısı ve bir dizi yenilikle birlikte, çeşitli hatalar da başarıyla giderilmiştir. Bu güncelleme, kullanıcı deneyimini daha da optimize etmek amacıyla gerçekleştirilmiştir.",
     "0.0.8": "Deneyap Kart Agent & IDE stabilizasyonu artırıldı ve kullanıcı deneyimini etkileyen hatalar düzeltildi.",
