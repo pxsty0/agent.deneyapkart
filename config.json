@@ -1,5 +1,5 @@
 {
-  "supportedVersions": ["0.0.9", "0.1.0","0.1.1","0.1.2"],
+  "supportedVersions": ["0.1.0","0.1.1","0.1.2"],
   "updateMessages": {
     "latest": "Bu güncellemeyle birlikte kullanıcılar artık birden fazla editör penceresi kullanabilecekler. Ayrıca, editörün kaynakladığı hatalar üzerinde çalışıldı ve giderildi. Yapılan düzeltmeler sayesinde kullanıcılar daha sorunsuz bir deneyim yaşayacaklar.",
     "0.1.1": "Bu güncellemeyle birlikte kullanıcılar artık birden fazla editör penceresi kullanabilecekler. Ayrıca, editörün kaynakladığı hatalar üzerinde çalışıldı ve giderildi. Yapılan düzeltmeler sayesinde kullanıcılar daha sorunsuz bir deneyim yaşayacaklar.",
