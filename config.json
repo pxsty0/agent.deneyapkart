@@ -1,5 +1,5 @@
 {
-  "supportedVersions": ["0.1.0","0.1.2"],
+  "supportedVersions": ["0.1.0","0.1.2","0.1.2rev2"],
   "updateMessages": {
     "latest": "Artık eski nesil ana sayfaya veda edin ve tek bir düzenleme penceresi aracılığıyla her şeye erişin ve düzenleyin. Performansı düşüren sorunlar giderildi ve duyarlılık güncellemeleri yapıldı. Yenilenmiş deneyimimizle çalışmaya başlayın!",
     "0.1.2":"Artık eski nesil ana sayfaya veda edin ve tek bir düzenleme penceresi aracılığıyla her şeye erişin ve düzenleyin. Performansı düşüren sorunlar giderildi ve duyarlılık güncellemeleri yapıldı. Yenilenmiş deneyimimizle çalışmaya başlayın!",
