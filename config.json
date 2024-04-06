@@ -2,7 +2,7 @@
   "supportedVersions": ["0.1.0","0.1.2","0.1.2rev2","0.1.3"],
   "updateMessages": {
     "latest": "Artık eski nesil ana sayfaya veda edin ve tek bir düzenleme penceresi aracılığıyla her şeye erişin ve düzenleyin. Performansı düşüren sorunlar giderildi ve duyarlılık güncellemeleri yapıldı. Yenilenmiş deneyimimizle çalışmaya başlayın!",
-    "0.1.3":"",
+    "0.1.3":".",
     "0.1.2":"Artık eski nesil ana sayfaya veda edin ve tek bir düzenleme penceresi aracılığıyla her şeye erişin ve düzenleyin. Performansı düşüren sorunlar giderildi ve duyarlılık güncellemeleri yapıldı. Yenilenmiş deneyimimizle çalışmaya başlayın!",
     "0.1.1": "Bu güncellemeyle birlikte kullanıcılar artık birden fazla editör penceresi kullanabilecekler. Ayrıca, editörün kaynakladığı hatalar üzerinde çalışıldı ve giderildi. Yapılan düzeltmeler sayesinde kullanıcılar daha sorunsuz bir deneyim yaşayacaklar.",
     "0.1.0": "Bu güncelleme, kullanıcı deneyimini daha da optimize etmek amacıyla gerçekleştirilmiştir.",
