@@ -3,5 +3,5 @@
 
 
 # Deneyap Kart IDE
-Deneyap Kart IDE konfigrasyonlarının bulunduğu repo.
+Deneyap Kart IDE eski versiyonlarının konfigrasyonlarının bulunduğu repo.
 
